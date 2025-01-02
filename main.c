@@ -1,5 +1,4 @@
 // Code by Samuel Jamieson for Operating Systems 1 - CS374
-// ONID: 934325118
 
 //Libraries for basic code functions
 #include <stdio.h>        // Input and Output (I/O) Library for reading keyboard Inputs and using basic C functions
